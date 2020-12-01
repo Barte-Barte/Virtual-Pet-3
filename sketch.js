@@ -24,19 +24,19 @@ var currentTime;
 
 function preload(){
   //load images here
-  backgroundImg = loadImage("images/bg.png");
+  backgroundImg = loadImage("bg.png");
 
-  dogImg = loadImage('images/Dog.png');
-  happyDogImg = loadImage('images/happy dog.png');
-  sadDog = loadImage('images/Lazy.png');
+  dogImg = loadImage('Dog.png');
+  happyDogImg = loadImage('happy dog.png');
+  sadDog = loadImage('Lazy.png');
 
-  bedroomImg = loadImage('images/Bed Room.png');
-  washroomImg = loadImage('images/Wash Room.png');
-  gardenImg = loadImage('images/Garden.png');
+  bedroomImg = loadImage('Bed Room.png');
+  washroomImg = loadImage('Wash Room.png');
+  gardenImg = loadImage('Garden.png');
 
-  Playing = loadImage('images/running.png');
-  Sleeping = loadImage('images/Lazy.png');
-  Bathing = loadImage('images/Happy.png');
+  Playing = loadImage('running.png');
+  Sleeping = loadImage('Lazy.png');
+  Bathing = loadImage('Happy.png');
 
 
 }
